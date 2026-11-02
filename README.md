@@ -9,9 +9,7 @@ the results under one citation numbering.
 **[Evaluation report](https://matteopilotto-lumina.vercel.app/evals)** ·
 **[Design doc](DESIGN.md)**
 
-<!-- TODO add docs/screenshot.png, then uncomment:
-![LUMINA answering a question with streamed text, numbered citations and a sources rail](docs/screenshot.png)
--->
+![LUMINA answering a question with numbered citations, the sources it read, and the agent's trace](docs/screenshot.png)
 
 ---
 
